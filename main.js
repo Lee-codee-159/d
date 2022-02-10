@@ -44,4 +44,4 @@ function gotResult(error,result){
         console.log(result);
         objects = results;
     }
-}}
+}
